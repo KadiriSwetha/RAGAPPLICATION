@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-ragpythonapp.egg-info/PKG-INFO
-ragpythonapp.egg-info/SOURCES.txt
-ragpythonapp.egg-info/dependency_links.txt
-ragpythonapp.egg-info/requires.txt
-ragpythonapp.egg-info/top_level.txt
