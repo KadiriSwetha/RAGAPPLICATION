@@ -1,0 +1,20 @@
+[project]
+name = "ragpythonapp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.121.0",
+    "inngest>=0.5.11",
+    "llama-index-core>=0.12.0",
+    "llama-index-readers-file>=0.3.0",
+    "openai>=2.9.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.2.1",
+    "qdrant-client>=1.16.1",
+    "reportlab>=4.4.5",
+    "sentence-transformers>=5.1.2",
+    "streamlit>=1.52.1",
+    "uvicorn>=0.38.0",
+]
